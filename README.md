@@ -7,4 +7,4 @@ This App write with .Net 7 minimal api to Encrypt and Decrypt End-To-End apps wi
 5-Now Decrypt Main Data by key Decypted with private key.
 6-Access Plain Text is Ok.
 
-if you want to Encrypt in 2 way that Client need to create RSA public and PRivate Key too and send Public Key to Server And Server Encryp AES_GCM key by clients public Key.
+if you want to Encrypt in 2 way that Client need to create RSA public and PRivate Key too and send Public Key to Server And Server Encrypt AES_GCM key by clients public Key.
