@@ -1,4 +1,8 @@
 # AES-GCM-RSAKeyExchanger
+Can Use Codes Directly in your .net core projects or
+Can Use this minimal API to use in you .net framework apps.(.net framework not Support AES-GCM)
+
+
 This App write with .Net 7 minimal api to Encrypt and Decrypt End-To-End apps with AES-GCM algorithm.
 1-First create RSA Public and private key and send Public key to client and save private key in Database.
 2-Client Encrypt Data by AES-GCM algorithm and then Encrypt its Key by Public Key that Server sent to it.
